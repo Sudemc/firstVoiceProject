@@ -46,10 +46,6 @@ Proje, ses sinyallerini analiz etmek için çeşitli grafikler üretir:
 - **Zaman Zarfı (Envelope)**: Sesin dinamiklerini görselleştirir
 - **Pitch Grafiği**: Vokal ve enstrüman sesinin temel frekanslarını belirler
 
-## 📌 Örnek Çıktılar
-| Dalga Formu | Mel Spektrogramı |
-|------------|----------------|
-| ![Waveform](docs/waveform.png) | ![Mel Spectrogram](docs/mel_spectrogram.png) |
 
 ## 💡 Gelecek Geliştirmeler
 - Daha fazla enstrüman ayrıştırma (Spleeter:4stems veya 5stems modeli kullanılarak)
